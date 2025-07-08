@@ -1,0 +1,1 @@
+elif char in number:
